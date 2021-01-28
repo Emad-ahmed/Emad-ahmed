@@ -1,7 +1,7 @@
 ### Hey there, I'm Emad Ahmed! 👋 👋
 
 
-.Third Year Computer Science Student at Ain Shams University.
+.Third Year Computer Science Student at Leading University.
 
 .Learning more about Python and Java.
 
