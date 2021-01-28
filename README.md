@@ -7,6 +7,6 @@
 
 .Learning more about web app Application In Django.
 
-.Looking to participate on more CTFs.
+.Looking to participate on more Python Project.
 
 .Lives in Sylhet, Bangladesh.
