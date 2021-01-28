@@ -1,9 +1,5 @@
 ### Hey there, I'm Emad Ahmed! 👋 👋
 
-<!--
-**Emad-ahmed/Emad-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 .Third Year Computer Science Student at Ain Shams University.
 .Learning more about Python and Java.
