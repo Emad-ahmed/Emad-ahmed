@@ -3,10 +3,10 @@
 
 .Third Year Computer Science Student at Leading University.
 
-.Learning more about Python and Java.
+.Learning more about Python and Javascript.
 
-.Learning more about web app penetration testing and Unity.
+.Learning more about web app Application In Django.
 
 .Looking to participate on more CTFs.
 
-.Lives in Cairo, Egypt.
+.Lives in Sylhet, Bangladesh.
