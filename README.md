@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emad</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emad-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="emad-ahmed" /> </p>
 
@@ -10,7 +10,7 @@
 <h1 align="center">I Am A Student Of Leading University In CSE Department</h1>
 
 
-- 🔭 I’m currently working on **An Andriod App**
+- 🔭 I’m currently working on **An Flutter App**
 
 - 💬 Ask me about **Python,Django, Html,Css Bootstrap**
 
