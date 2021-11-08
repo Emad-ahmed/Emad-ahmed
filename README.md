@@ -12,13 +12,13 @@
 <h3 align="left">>>>My Experience Field<<<</h3>
   
 
-  .Python Programming
-  .Django
-  .Html
-  .CSS
-  .Bootstrap
-  .Flutter
-  .Java
+  .<p><b>Python Programming</b></p>
+  .<p><b>Django</b></p>
+  .<p><b>Html</b></p>
+  .<p><b>CSS</b></p>
+  .<p><b>Bootstrap</b></p>
+  .<p><b>Flutter</b></p>
+  .<p><b>Java</b></p>
 
   <hr>
 
