@@ -11,9 +11,9 @@
 
 <h3 align="left">>>>My Experience Field<<<</h3>
   
-<p align="left">
-  <b>Python Programming</b>
-</p>
+
+  -Python Programming
+
   
   <hr>
 
