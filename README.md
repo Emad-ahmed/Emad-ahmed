@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **An Flutter App**
 
-- 💬 Ask me about **Python,Django, Html,Css Bootstrap**
+- 💬 Ask me about **Python,Django, Html,Css Bootstrap, Java, Flutter**
 
 - 📫 How to reach me **amadahmed1234678@gmail.com**
 
